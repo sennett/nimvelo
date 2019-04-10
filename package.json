@@ -1,0 +1,15 @@
+{
+  "name": "nimvelo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1",
+    "standard": "^12.0.1"
+  }
+}
