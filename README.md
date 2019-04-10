@@ -1,4 +1,4 @@
 Nimvelo test
 ===
 
-To run: npm test.
+To run the tests: `npm test`.
