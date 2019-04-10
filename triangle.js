@@ -3,7 +3,8 @@ const triangle = (row) => {
   // so I just saw that you can loop
   // through an array just like a string in JS.
   // did not know about that and it scares me,
-  // so parse the first time
+  // so parse the first time because we use arrays
+  // from here through the recursion.
   if (typeof row === 'string') {
     row = row.split('')
   }
